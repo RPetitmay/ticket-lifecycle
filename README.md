@@ -24,8 +24,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Prerequisites before simulating lab</h2>
 
-- Before starting lab, delete the maintenance department
-- Change the SysAdmins Department to a Top Level Department
+<strong>- Before starting lab, delete the maintenance department</strong>
+
+<strong>- Change the SysAdmins Department to a Top Level Department</strong>
 
 <h2>Lifecycle Stages</h2>
 
