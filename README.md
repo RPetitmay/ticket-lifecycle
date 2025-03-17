@@ -25,10 +25,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M1OKgFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+     <h3>Creating a Support Ticket(As A User Named Karen)</h3>
+<ol>
+    <li>Navigate to the <strong>Support Center</strong> of the helpdesk.</li>
+    <li>Select the option to create a new ticket.</li>
+    <li>Enter the required information:
+        <ol>
+            <li><strong>Email Address:</strong> karen@lognpacific.com</li>
+            <li><strong>Full Name:</strong> Karen</li>
+            <li><strong>Phone Number:</strong> 738-290-2412 (Fake Number)</li>
+            <li><strong>Help Topic:</strong> Report a Problem</li>
+            <li><strong>Issue Summary Title:</strong> Entire mobile/online banking system is down</li>
+            <li><strong>Issue Summary:</strong> "My employees report that users can no longer access the online banking portal. Those who can occasionally access it are unable to log in."</li>
+        </ol>
+    </li>
+    <li>Review all entered details for accuracy.</li>
+    <li>Click <strong>Create Ticket</strong> to finalize the request.</li>
+</ol>
 </p>
 <br />
 
@@ -36,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logout as the as the admin and login as one of the agents. For this lab we login as of the agents named john. To resolve this banking issue. 
 </p>
 <br />
 
