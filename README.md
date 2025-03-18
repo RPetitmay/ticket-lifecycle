@@ -58,7 +58,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logout as the as the admin and login as one of the agents. For this lab we login as of the agents named john. To resolve this banking issue. 
+Logout as the as the admin and login as one of the agents. For this lab we login as of the agents named john. First observe the given ticket. If information on the ticket need to be update, make sure you update it. For this lab we update the ticket by assigning the SLA Plan: Sev-A and providing a reason: "Wide impact, customer unable to do online banking". We also update the Help Topic: Report a problem/Business Crtical Outage and providing reason: "No customers able to access online banking". Reload webpage to view update response on the ticket. 
 </p>
 <br />
 
