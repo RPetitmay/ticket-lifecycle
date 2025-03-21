@@ -55,10 +55,44 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7WRjzbq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logout as the as the admin and login as one of the agents. For this lab we login as of the agents named john. First observe the given ticket. If information on the ticket need to be update, make sure you update it. For this lab we update the ticket by assigning the SLA Plan: Sev-A and providing a reason: "Wide impact, customer unable to do online banking". We also update the Help Topic: Report a problem/Business Crtical Outage and providing reason: "No customers able to access online banking". Reload webpage to view update response on the ticket. 
+     <h3>Solving and Closing Previous Ticket(Online Banking Portal)</h3>
+<ol>
+    <li><strong>Log Out and Re-Login as an Agent</strong>
+        <ol>
+            <li>Log out of the Admin account.</li>
+            <li>Log in as one of the agents. For this lab, use the agent account named <strong>John</strong>.</li>
+        </ol>
+    </li>
+    <li><strong>Review the Ticket</strong>
+        <ol>
+            <li>Locate and open the assigned support ticket.</li>
+            <li>Review the ticket details for accuracy and completeness.</li>
+        </ol>
+    </li>
+    <li><strong>Update the Ticket</strong>
+        <ol>
+            <li>Assign the <strong>SLA Plan</strong>: <em>Sev-A</em></li>
+            <li>Provide a reason: <em>"Wide impact, customer unable to do online banking."</em></li>
+            <li>Update the <strong>Help Topic</strong>: <em>Report a Problem / Business Critical Outage</em></li>
+            <li>Provide a reason: <em>"No customers able to access online banking."</em></li>
+        </ol>
+    </li>
+    <li><strong>Refresh the Page</strong>
+        <ol>
+            <li>Reload the webpage to confirm the ticket updates are visible.</li>
+        </ol>
+    </li>
+    <li><strong>Respond and Resolve the Ticket</strong>
+        <ol>
+            <li>Once the online banking portal issue is resolved, return to the ticket.</li>
+            <li>Reply to the ticket stating that the problem has been resolved.</li>
+            <li>Change the ticket status to <strong>Resolved</strong>.</li>
+        </ol>
+    </li>
+</ol>
 </p>
 <br />
 
@@ -69,3 +103,13 @@ Logout as the as the admin and login as one of the agents. For this lab we login
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
