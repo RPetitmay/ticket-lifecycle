@@ -155,10 +155,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C7T3xFa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+     <h3>Creating a Support Ticket(As A User Named Karen Again)</h3>
+<ol>
+    <li>Navigate to the <strong>Support Center</strong> of the helpdesk.</li>
+    <li>Select the option to create a new ticket.</li>
+    <li>Enter the required information:
+        <ol>
+            <li><strong>Email Address:</strong> karen@lognpacific.com</li>
+            <li><strong>Full Name:</strong> Karen</li>
+            <li><strong>Phone Number:</strong> 738-290-2412 (Fake Number)</li>
+            <li><strong>Help Topic:</strong> Report a Problem / Personal Computer Issues</li>
+            <li><strong>Issue Summary Title:</strong> CFO's states he is unable to use laptop</li>
+            <li><strong>Issue Summary:</strong> "Laptop won't power on, despite of pressing the power button"</li>
+        </ol>
+    </li>
+    <li>Review all entered details for accuracy.</li>
+    <li>Click <strong>Create Ticket</strong> to finalize the request.</li>
+</ol>
 </p>
 <br />
 
