@@ -121,10 +121,36 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ajafmb4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+     <h3>Solving and Closing Previous Ticket(Adobe Reader Upgrade)</h3>
+<ol>
+  <li>Log out of the admin account and log in as an agent.</li>
+  <li>Navigate to the <strong>Tickets</strong> tab to review any new ticket requests.</li>
+  <li>Once a new ticket is identified, open it and review the details for completeness and accuracy.</li>
+  <li>If necessary, update the ticket with the correct information.</li>
+  <li>Update the SLA Plan to <strong>Sev-C</strong> with the reason: 
+    <ul>
+      <li>"Only two users are unable to open Adobe Reader, which classifies the issue as Sev-C."</li>
+    </ul>
+  </li>
+  <li>Post an initial reply with the following note: 
+    <ul>
+      <li>"The customer reports that only two individuals in the accounting department are unable to open and use Adobe Reader. The customer is attempting a restart and will follow up after lunch."</li>
+    </ul>
+  </li>
+  <li>After the issue has been resolved, post a follow-up reply stating:
+    <ul>
+      <li>"The customer confirmed that a restart resolved the issue. Closing the ticket."</li>
+    </ul>
+  </li>
+  <li>Set the ticket status to <strong>Resolved</strong> with the reason:
+    <ul>
+      <li>"Restart fixed the issue for both users."</li>
+    </ul>
+  </li>
+</ol>
 </p>
 <br />
 
