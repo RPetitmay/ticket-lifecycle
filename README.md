@@ -179,11 +179,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8D50gNd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      <h3>Solving and Closing Previous Ticket(CFOs Laptop)</h3>
+<ol>
+  <li>Log out of the admin account and log in as an agent.</li>
+  <li>Navigate to the <strong>Tickets</strong> tab to review any new ticket requests.</li>
+  <li>Once a new ticket is identified, open it and review the details for completeness and accuracy. Update any missing or incorrect information as needed.</li>
+  <li>For this lab exercise:
+    <ol>
+      <li><strong>Set the Priority</strong> to <strong>Emergency</strong>.</li>
+      <li><strong>Update the SLA Plan</strong> to <strong>Sev-B</strong>, with the reason:<br>
+        <em>"May re-classify after obtaining more information."</em>
+      </li>
+      <li><strong>Assign the ticket</strong> to agent <strong>John Doe</strong>.</li>
+    </ol>
+  </li>
+  <li>After the issue has been resolved, <strong>post a reply</strong> with the following note:<br>
+    <em>"The CFO’s laptop was not charging due to a broken charger. A replacement charger was provided, and the laptop is now charging successfully."</em>
+  </li>
+  <li><strong>Set the ticket status to Resolved</strong> with the reason:<br>
+    <em>"The charger was broken, which caused the battery to fully drain. This prevented the laptop from turning on."</em>
+  </li>
+</ol>
 </p>
 <br />
-
-
