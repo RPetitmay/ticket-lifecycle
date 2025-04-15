@@ -10,6 +10,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Notepad/Notes App (Needed for saving usernames and passwords)
 
 <h2>Operating Systems Used </h2>
 
