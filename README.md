@@ -206,3 +206,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </ol>
 </p>
 <br />
+
+<h2>Conclusion</h2>
